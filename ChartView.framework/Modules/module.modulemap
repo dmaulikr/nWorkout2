@@ -4,3 +4,7 @@ framework module ChartView {
   export *
   module * { export * }
 }
+
+module ChartView.Swift {
+    header "ChartView-Swift.h"
+}

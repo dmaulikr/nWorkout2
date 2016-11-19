@@ -4,3 +4,7 @@ framework module CoordinatorKit {
   export *
   module * { export * }
 }
+
+module CoordinatorKit.Swift {
+    header "CoordinatorKit-Swift.h"
+}
